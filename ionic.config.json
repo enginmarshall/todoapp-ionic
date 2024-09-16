@@ -1,0 +1,8 @@
+{
+  "name": "TODOAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "efdbf2a4"
+}
